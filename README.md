@@ -51,10 +51,25 @@ Skilled in **SQL, Python, Power BI, Tableau, and Excel**, I build end-to-end ana
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Currently
 
-![Badruzama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansaribadruzama&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansaribadruzama&layout=compact&theme=dark&hide_border=true)
+- 🔍 Actively seeking **Data Analyst / Junior Data Analyst** roles in **Mumbai & Navi Mumbai**
+- 📊 Building more real-world analytics projects to strengthen my portfolio
+- 📚 Continuously improving skills in **Advanced SQL, DAX in Power BI, and Python automation**
+- 🤝 Open to **collaborations, internships, and full-time opportunities**
+
+---
+
+## 💡 What I Bring to the Table
+
+| Skill | Tools | Projects Used In |
+|-------|-------|-----------------|
+| Data Querying | SQL, MySQL | Olist, HR Analytics, Healthcare |
+| Data Cleaning & EDA | Python, Pandas, NumPy | HR Analytics, Healthcare |
+| Data Visualization | Power BI, Tableau, Excel | All 3 Projects |
+| ETL Pipeline | Python, MySQL | HR Analytics, Healthcare |
+| Dashboard Design | Power BI, Tableau | All 3 Projects |
+| Business Intelligence | Power BI, Excel | Olist, Healthcare |
 
 ---
 
